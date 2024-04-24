@@ -46,8 +46,33 @@ width: 20%;
     width: 35%;
 }
 .escola-titulo{
+    text-align: initial;
     padding: 24px 0;
 }
+
+.escola-texto-um {
+    font-size: large;
+    text-decoration: dotted;
+    text-align: left;
+}
+
+.escola-texto-dois {
+    font-size: large;
+    text-decoration: dotted;
+    text-align: justify;
+}
+
+
+.estudante-titulo {
+    text-align: center;
+    padding: 24px 0;
+}
+
+
+
+
+
+
 
 body {
     font-family: 'Poppins', sans-serif;
